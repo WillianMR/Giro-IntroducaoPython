@@ -1,7 +1,8 @@
 # Giro-IntroducaoPython
 Repositório criado para disponibilizar o material do curso de Introdução ao Python para a Equipe da Giro Carteiras
 
-![image-2.png](attachment:image-2.png)
+![image](https://user-images.githubusercontent.com/58883121/120391299-2fd9fc80-c305-11eb-82e3-8966015c07e0.png)
+
 ## Olá pessoal! Neste curso iremos aprender mais sobre o Python e suas funcionalidades básicas.
 
 ### Guia de Intalação
