@@ -3,7 +3,7 @@ Repositório criado para disponibilizar o material do curso de Introdução ao P
 
 ![image](https://user-images.githubusercontent.com/58883121/120391299-2fd9fc80-c305-11eb-82e3-8966015c07e0.png)
 
-## Olá pessoal! Neste curso iremos aprender mais sobre o Python e suas funcionalidades básicas.
+Neste curso iremos aprender mais sobre o Python e suas funcionalidades básicas.
 
 ### Guia de Intalação
    * [Anaconda Navigator](https://www.anaconda.com/products/individual)
@@ -12,10 +12,15 @@ Repositório criado para disponibilizar o material do curso de Introdução ao P
 
 ### Abaixo temos todos os temas que serão abordados:
 #### 1. Introdução
+Neste tópico abordaremos sobre a história do Python e suas características.
 #### 2. Entrada e Saída
+Tópico escolhido para aprofundar sobre as funções utilizadas para inserir e extrair informações durante a execução do programa.
 #### 3. Variáveis
+Aqui explicaremos o que são variáveis e quais são os tipos de dados usados pela linguagem,
 #### 4. Strings
+Neste tópico iremos aprofundar sobre as Strings, onde mostraremos como manipular e alterá-las através de funções e comandos.
 #### 5. Operações Matemáticas
+Iremos aprender sobre operações aritméticas, comparações e operadores lógicos.
 #### 6. Listas, Tuplas e Dicionários
 #### 7. Estruturas de Decisão
 #### 8. Estruturas de Repetição
