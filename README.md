@@ -12,7 +12,7 @@ Neste curso iremos aprender mais sobre o Python e suas funcionalidades básicas.
 
 ### Abaixo temos todos os temas que serão abordados:
 #### 1. Introdução
-  Neste tópico abordaremos sobre a história do Python e suas características.
+     Neste tópico abordaremos sobre a história do Python e suas características.
 #### 2. Entrada e Saída
   Tópico escolhido para aprofundar sobre as funções utilizadas para inserir e extrair informações durante a execução do programa.
 #### 3. Variáveis
