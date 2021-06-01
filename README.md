@@ -8,6 +8,7 @@ Neste curso iremos aprender mais sobre o Python e suas funcionalidades básicas.
 ### Guia de Intalação
    * [Anaconda Navigator](https://www.anaconda.com/products/individual)
    * [Vídeo Tutorial de Instalação](https://www.youtube.com/watch?v=BP4D-yaxw6E&ab_channel=FabioRuicci)
+   * [Dicas de Uso do Jupyter Notebook](https://www.youtube.com/watch?v=dPb4acFiaYs&ab_channel=FEADev)
    * [Instalando Python no Windows 10](https://www.youtube.com/watch?v=pDBnCDuL-dc)
 
 ### Abaixo temos todos os temas que serão abordados:
